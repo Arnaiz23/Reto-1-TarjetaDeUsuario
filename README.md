@@ -4,9 +4,9 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
+- 🦄 **Desarrollador/a:** *Adrián Arnaiz Fernández*
+- 🐇 **Link a red social:** *https://twitter.com/01adrianRMCF*
+- 🦾 **Perfil:** *Novato / Bajo / **Medio** / Avanzado / Experto*
 - 💬 **Un comentario breve o frase ingeniosa**: *-*
 
 ## Observaciones
